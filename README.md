@@ -38,6 +38,16 @@ This project was built to practice OOP, real-time input handling, collision dete
 
 ---
 
+## Project Structure:
+
+- main.py # Main game loop and event handling
+- ball.py # Ball movement and collision logic
+- paddle.py # Paddle class and movement controls
+- scoreboard.py # Tracks and displays the score
+- output-preview.jpg # Example screenshot of the game
+
+---
+
 ## How to Run
 
 1. Clone this repository:
